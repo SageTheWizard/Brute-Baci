@@ -7,6 +7,6 @@ Make sure your "bacc" and "bainterp" are also in /usr/local/bin<br/>
 ## Usage
 the command is as follows (no quotes): "brute-baci.sh sample.cm"<br/>
 so to compile and run onetwo.cm it would be "brute-baci.sh onetwo.cm" <br/>
-NOTE: Brute-Baci does not preserve newlines or tabs and at the speed it runs, for larger problems with more complex output, it will be difficult to determine the correctness of the output, Brute-Baci is more a tool to brute force check if your process will deadlock
+NOTE: Brute-Baci does not preserve newlines or tabs and at the speed it runs, for larger problems with more complex output, it will be difficult to determine the correctness of the output, Brute-Baci is more a tool to brute force check if your program will deadlock
 ## Sample Output:
 ![Alt text](brutebaci.png)
