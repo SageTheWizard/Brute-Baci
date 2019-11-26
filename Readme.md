@@ -1,5 +1,7 @@
 # BRUTE-BACI
-Little script that will compile your .cm and run the pco all in one
+Little script that will compile your .cm and run the pco all in one <br/>
+Now with deadlock detection! Script will terminate outputting DEADLOCK DETECTED if program deadlocks <br/>
+Note: Program should not output any string containing "Halt at" otherwise it breaks things 
 ## How To?
 Move the brute-baci.sh to /usr/local/bin unless you wanna have a bad time<br/>
 You might have to run chmod +x on it, I dunno, I had to.<br/>
